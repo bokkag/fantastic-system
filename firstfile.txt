@@ -1,2 +1,4 @@
 This is some content
-git add . //add files to version control called staging 
+git add . //add files to version control called staging
+git commit -m 'message' // to save the changes to the file
+git log // shows the commit logs
